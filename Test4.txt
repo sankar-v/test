@@ -1,0 +1,5 @@
+This is a test file.. for git init
+this is a test file for git init
+this is a test file for git init
+This is for undoing the changes using reset..
+Committing reset
