@@ -3,3 +3,5 @@ this is a test file for git init
 this is a test file for git init
 This is for undoing the changes using reset..
 Committing reset
+this is for testing the changes in the remote..
+this is for testing the changes in the remote....
