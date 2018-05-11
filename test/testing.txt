@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This line is changed in the remote repository..this change is made in the local repository.
+=======
+Verifying if changes are detected in the remote and local repositories for the same file..
+>>>>>>> 5da326b686f593266e266999a203994f7afb8f30

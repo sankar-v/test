@@ -1,0 +1,3 @@
+This is  atest file for git divergence
+Check changes using Git pull
+Git pull verification
