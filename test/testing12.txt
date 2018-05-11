@@ -1,2 +1,3 @@
 Additional file testing12.txt for merging
-Localmaster changes..
+Localmaster changes..1
+Localmaster changes..2
